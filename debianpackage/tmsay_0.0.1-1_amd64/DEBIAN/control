@@ -1,0 +1,7 @@
+Package: tmsay
+Version: 0.0.1
+Maintainer: F2Ville <contact@f2ville.dev>
+Depends: libc6
+Architecture: amd64
+Homepage: https://f2ville.dev
+Description: Thierry Massart say
